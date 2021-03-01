@@ -1,7 +1,7 @@
 ## Python Script to Find Spotify Links Tweeted by an user
 
 ### Setup
-(1) You need to get your Twitter API Credentials by creating a new app at [developer.twitter.com](developer.twitter.com)
+(1) Get your Twitter API Credentials by creating a new app at [developer.twitter.com](developer.twitter.com)
 
 (2) The libraries required for this script to run are 'tweepy' and 'unshortenit'.
 
